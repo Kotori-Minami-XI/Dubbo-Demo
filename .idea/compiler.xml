@@ -11,6 +11,10 @@
         <module name="Dubbo-Consumer-0" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="Dubbo-Consumer-0" target="11" />
+      <module name="Dubbo-Provider-0" target="11" />
+      <module name="Service-Client-SDK" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

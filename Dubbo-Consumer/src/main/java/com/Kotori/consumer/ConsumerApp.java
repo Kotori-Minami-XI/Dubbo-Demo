@@ -8,7 +8,7 @@ public class ConsumerApp {
         try {
             ClassPathXmlApplicationContext context=new ClassPathXmlApplicationContext("consumer.xml");
             context.start();
-            System.out.println("provider-0已经启动，按任意键退出");
+            System.out.println("Consumer-0已经启动，按任意键退出");
             System.out.println("——————————————————————————————————————————");
 
             // 从spring中获取远程接口
