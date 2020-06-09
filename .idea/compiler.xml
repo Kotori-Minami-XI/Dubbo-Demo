@@ -6,14 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Dubbo-Provider-3" />
+        <module name="Dubbo-Consumer (1)" />
+        <module name="Dubbo-Consumer (2)" />
+        <module name="Dubbo-Consumer-2" />
+        <module name="Dubbo-Consumer-1" />
+        <module name="Dubbo-Consumer-0" />
+        <module name="Dubbo-Provider-2" />
+        <module name="Dubbo-Provider-1" />
         <module name="Dubbo-Provider-0" />
         <module name="Service-Client-SDK" />
-        <module name="Dubbo-Consumer-0" />
+        <module name="Dubbo-Consumer-3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
       <module name="Dubbo-Consumer-0" target="11" />
+      <module name="Dubbo-Consumer-1" target="11" />
+      <module name="Dubbo-Consumer-2" target="11" />
+      <module name="Dubbo-Consumer-3" target="11" />
       <module name="Dubbo-Provider-0" target="11" />
+      <module name="Dubbo-Provider-1" target="11" />
+      <module name="Dubbo-Provider-2" target="11" />
+      <module name="Dubbo-Provider-3" target="11" />
       <module name="Service-Client-SDK" target="11" />
     </bytecodeTargetLevel>
   </component>

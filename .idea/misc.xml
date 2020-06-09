@@ -9,6 +9,18 @@
         <option value="$PROJECT_DIR$/Dubbo-Consumer/pom.xml" />
         <option value="$PROJECT_DIR$/Dubbo-Provider/pom.xml" />
         <option value="$PROJECT_DIR$/Service-Client-SDK/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Consumer0/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Consumer1/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Consumer3/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Consumer-0/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Consumer-2/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Consumer-3/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Consumer-1/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Provider-0/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo-Provider-3/pom.xml" />
       </list>
     </option>
   </component>

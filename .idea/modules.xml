@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Dubbo-Consumer/Dubbo-Consumer-0.iml" filepath="$PROJECT_DIR$/Dubbo-Consumer/Dubbo-Consumer-0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Dubbo-Provider/Dubbo-Provider-0.iml" filepath="$PROJECT_DIR$/Dubbo-Provider/Dubbo-Provider-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Consumer-0/Dubbo-Consumer-0.iml" filepath="$PROJECT_DIR$/Dubbo-Consumer-0/Dubbo-Consumer-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Consumer-1/Dubbo-Consumer-1.iml" filepath="$PROJECT_DIR$/Dubbo-Consumer-1/Dubbo-Consumer-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Consumer-2/Dubbo-Consumer-2.iml" filepath="$PROJECT_DIR$/Dubbo-Consumer-2/Dubbo-Consumer-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Consumer-3/Dubbo-Consumer-3.iml" filepath="$PROJECT_DIR$/Dubbo-Consumer-3/Dubbo-Consumer-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Provider-0/Dubbo-Provider-0.iml" filepath="$PROJECT_DIR$/Dubbo-Provider-0/Dubbo-Provider-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Provider-1/Dubbo-Provider-1.iml" filepath="$PROJECT_DIR$/Dubbo-Provider-1/Dubbo-Provider-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Provider-2/Dubbo-Provider-2.iml" filepath="$PROJECT_DIR$/Dubbo-Provider-2/Dubbo-Provider-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Provider-3/Dubbo-Provider-3.iml" filepath="$PROJECT_DIR$/Dubbo-Provider-3/Dubbo-Provider-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service-Client-SDK/Service-Client-SDK.iml" filepath="$PROJECT_DIR$/Service-Client-SDK/Service-Client-SDK.iml" />
     </modules>
   </component>
