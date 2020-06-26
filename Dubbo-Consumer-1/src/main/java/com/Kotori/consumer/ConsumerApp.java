@@ -11,9 +11,10 @@ public class ConsumerApp {
             System.out.println("Consumer-1已经启动，按任意键退出");
             System.out.println("——————————————————————————————————————————");
 
+            // 从spring中获取远程接口
+            ProviderService providerService = (ProviderService) context.getBean("providerService");
+
             while (true) {
-                // 从spring中获取远程接口
-                ProviderService providerService = (ProviderService) context.getBean("providerService");
 
                 // 调用远程接口
                 String str = providerService.SayHello("Consumer-1调用远程接口 ");
